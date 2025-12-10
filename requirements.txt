@@ -1,1 +1,7 @@
 streamlit>=1.26.0
+pandas
+xgboost
+scikit-learn
+streamlit
+joblib
+numpy
